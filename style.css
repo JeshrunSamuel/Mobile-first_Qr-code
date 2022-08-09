@@ -38,7 +38,17 @@ p {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
 }
+footer {
+    position: absolute;
+    left: 38%;
+    bottom: 0;
+    font-size: 13px;
+    color: hsl(220, 15%, 55%);
+}
 
+footer a {
+    color:hsl(218, 44%, 22%);
+}
 @media only screen and (max-width: 375px) {
   
     #wrapper {
